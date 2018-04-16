@@ -1,0 +1,48 @@
+﻿body {
+}
+.form-group 
+{
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #eeeeee;
+}
+.form-label
+{
+    padding:15px 10px 15px 50px;   
+}
+.form-label-small
+{
+    padding:15px 10px 15px 30px;
+}
+.mysidebar
+{
+    padding: 10px 0 10px 15px;
+    display: block;
+    color: #939da8;
+}
+.mysidebar1
+{
+    list-style: none;
+    margin: 0px 0 0;
+    padding: 0;
+    position: absolute;
+    width: 220px;
+}
+.to-label
+{
+    padding:15px 20px 10px 50px; 
+}
+.abc
+{
+    text-align:left;
+}
+.controls1 {
+    padding: 100px 0px 10px 0px ;
+}
+.anew
+{
+    color:white;
+}
+.anew:hover
+{
+    color:white;
+}
